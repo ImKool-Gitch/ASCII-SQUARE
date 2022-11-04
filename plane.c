@@ -2,8 +2,8 @@
 #include <string.h>
 
 int main() {
-    int n = 7;
-    int t = 5;
+    int n; // Edit this to change the size
+    int t; // Edit this to change the space between the squares
     char str[n];
     char str2[n];
     for (int i = 0; i < n; ++i) {
